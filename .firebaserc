@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "myfirebasetodo-394118": {
+      "hosting": {
+        "firebase-todo": [
+          "myfirebasetodo-394118"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "myfirebasetodo-394118"
+  }
+}
